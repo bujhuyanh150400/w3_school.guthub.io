@@ -1,0 +1,11 @@
+-Nên reset CSS
+-Tạo khung : như trong trang web này gồm có 
++header
++slider
++content
+    --About
+    --Tour
+    --Image
+    --Footer
++footer
+
